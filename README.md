@@ -3,6 +3,7 @@ logistic regression model to predict whom to be issued a credit card
 
 
 # Sample Data
+
 ID	      Gender	Age	Region_Code	Occupation	Channel_Code	Vintage	Credit_Product	Avg_Account_Balance	Is_Active	Is_Lead
 NNVBBKZB	Female	73	RG268	      Other	        X3	          43	      No	              1045696	          No	      0
 IDD62UNG	Female	30	RG277	      Salaried	    X1	          32	      No	              581988	          No	      0
